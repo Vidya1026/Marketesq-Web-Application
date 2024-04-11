@@ -173,10 +173,10 @@ const Page2 = () => {
         
 //         navigate("/AdminDashBoard")
 //         // console.log('JWT Token:', data.token);
-//         // console.log("sivaa",data?.admin?.adminname);
-//         // console.log("sivaa1111",data?.admin?.email);
-//         // console.log("sivaa222",data?.admin?.employeeId);
-//         // console.log("sivaa222",data?.admin?.phonenumber);
+//         // console.log("Vidyaa",data?.admin?.adminname);
+//         // console.log("Vidyaa1111",data?.admin?.email);
+//         // console.log("Vidyaa222",data?.admin?.employeeId);
+//         // console.log("Vidyaa222",data?.admin?.phonenumber);
 //       } 
 //   } catch (error) {
 //     dispatch(setloading(false))
