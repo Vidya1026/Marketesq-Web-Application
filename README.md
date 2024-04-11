@@ -68,3 +68,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Login
+![WhatsApp Image 2024-04-11 at 10 59 40_d001f128](https://github.com/Vidya1026/Marketesq-Web-Application/assets/146586310/a1d17db9-ba51-4e37-871b-3699c16e2244)
+
+# User Registration
+![WhatsApp Image 2024-04-11 at 10 59 41_80b20d1a](https://github.com/Vidya1026/Marketesq-Web-Application/assets/146586310/6230671f-5592-4af4-8f73-8faabeeae6ab)
+
+# Home
+![WhatsApp Image 2024-04-11 at 10 59 41_49adac0e](https://github.com/Vidya1026/Marketesq-Web-Application/assets/146586310/6e6580d7-a8ff-4079-acf4-599d3171b9b1)
+
+# Cart
+![WhatsApp Image 2024-04-11 at 10 59 43_1eecf872](https://github.com/Vidya1026/Marketesq-Web-Application/assets/146586310/72d41e77-e41d-4e39-a6c2-b15d91aebc1f)
+
+# Others
+
+![WhatsApp Image 2024-04-11 at 10 59 42_3c2df0dd](https://github.com/Vidya1026/Marketesq-Web-Application/assets/146586310/8d3fa085-ca99-46d6-bd78-f17353bfbb5a)
+
+![WhatsApp Image 2024-04-11 at 10 59 42_6a02189b](https://github.com/Vidya1026/Marketesq-Web-Application/assets/146586310/d3bfa4d9-744e-439a-bc65-7b4d3e45b07e)
+
+![WhatsApp Image 2024-04-11 at 10 59 43_4ae3a6b6](https://github.com/Vidya1026/Marketesq-Web-Application/assets/146586310/db7e9b8b-0396-4940-b414-d0f6bf54c37a)
+
+# Please Check the Code for more Pages
+
+
+
+
+
+
