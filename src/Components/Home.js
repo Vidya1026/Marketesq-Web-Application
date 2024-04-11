@@ -568,7 +568,7 @@ const Home = () => {
           border: '1px 0px 0px 0px solid red',
 
           marginBottom:"1px solid red"
-         }}><b>siva</b></p>
+         }}><b>Vidya</b></p>
 
 <hr />
         
@@ -593,7 +593,7 @@ const Home = () => {
           border: '1px 0px 0px 0px solid red',
 
           marginBottom:"1px solid red"
-         }}><b>siva</b></p>
+         }}><b>Vidya</b></p>
 
 <hr />
         
@@ -618,7 +618,7 @@ const Home = () => {
           border: '1px 0px 0px 0px solid red',
 
           marginBottom:"1px solid red"
-         }}><b>siva</b></p>
+         }}><b>Vidya</b></p>
 
 <hr />
         
@@ -643,7 +643,7 @@ const Home = () => {
           border: '1px 0px 0px 0px solid red',
 
           marginBottom:"1px solid red"
-         }}><b>siva</b></p>
+         }}><b>Vidya</b></p>
 
 <hr />
         
@@ -668,7 +668,7 @@ const Home = () => {
           border: '1px 0px 0px 0px solid red',
 
           marginBottom:"1px solid red"
-         }}><b>siva</b></p>
+         }}><b>Vidya</b></p>
 
 <hr />
         
@@ -693,7 +693,7 @@ const Home = () => {
           border: '1px 0px 0px 0px solid red',
 
           marginBottom:"1px solid red"
-         }}><b>siva</b></p>
+         }}><b>Vidya</b></p>
 
 <hr />
         
